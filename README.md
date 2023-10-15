@@ -6,3 +6,6 @@ You may need to change the API value. <br>
 - Then go to https://home.openweathermap.org/api_keys
 - Copy and paste
 - Done!
+### How to use
+Just put your city or country. <br>
+Example: "python3 app.py london"
